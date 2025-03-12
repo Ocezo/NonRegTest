@@ -16,5 +16,6 @@ make test
 
 # To launch:
 ```sh
-./NonRegTest
+./addition_test
+./multiply_test
 ```
